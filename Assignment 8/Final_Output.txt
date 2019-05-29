@@ -1,0 +1,86 @@
+For the sentance :Science and mathematics courses are more beneficial to students than literature and history classes for three reasons.
+The Subject is [courses]
+The Verb is [are]
+The Object is []
+For the sentance :First, the knowledge of science and math is essential to learning other important disciplines.
+The Subject is [knowledge]
+The Verb is [is, learning]
+The Object is [disciplines]
+For the sentance :Second, it is more important in everyday life than literature and history.
+The Subject is [it]
+The Verb is [is]
+The Object is []
+For the sentance :And finally, science and math courses develop logic skills the way the humanities courses cant.
+
+
+The Subject is [courses, courses]
+The Verb is [develop, ca]
+The Object is [skills]
+For the sentance :First and foremost importantly, science and mathematics are essential for learning economics, finance, or mechanics, which are disciplines that are invaluable in todays marketplace.
+The Subject is [science, which, that]
+The Verb is [are, learning, are, are]
+The Object is [economics]
+For the sentance :Anyone who lacks such knowledge will also have difficulty grasping computers, internet, stocks, insurance, etc.
+The Subject is [Anyone, who]
+The Verb is [lacks, have, grasping]
+The Object is [knowledge, difficulty, computers]
+For the sentance :But the knowledge of literature and history barely has any effect on any skills that are vital to todays economic atmosphere.
+
+
+The Subject is [knowledge, that]
+The Verb is [has, are]
+The Object is [effect]
+For the sentance :Science and mathematics are indispensable in daily and professional lives.
+The Subject is [Science]
+The Verb is [are]
+The Object is []
+For the sentance :They show people how to avoid electric shock when doing electrical repairs.
+The Subject is [They]
+The Verb is [show, avoid, doing]
+The Object is [people, shock, repairs]
+For the sentance :They also help people optimize their incomes and expenses effectively.
+The Subject is [They, people]
+The Verb is [help, optimize]
+The Object is [incomes]
+For the sentance :These subjects also play an important role in the workplace.
+The Subject is [subjects]
+The Verb is [play]
+The Object is [role]
+For the sentance :Operating machinery and being responsible for market or finance analysis call for the knowledge of math.
+The Subject is []
+The Verb is [Operating, being, finance]
+The Object is [call]
+For the sentance :But the humanities are hardly helpful in the workplace.
+The Subject is [humanities]
+The Verb is [are]
+The Object is []
+For the sentance :Literature and history can only be valuable to the people who teach them, providing them with income.
+The Subject is [Literature, who]
+The Verb is [be, teach, providing]
+The Object is [them, them]
+For the sentance :But these teachers represent only a small percentage of population.
+
+
+The Subject is [teachers]
+The Verb is [represent]
+The Object is [percentage]
+For the sentance :Finally, science and mathematics are great logic training.
+The Subject is [science]
+The Verb is [are]
+The Object is []
+For the sentance :They train students how to analyse numerous variants, and show how to cope with conflicting factors.
+The Subject is [They]
+The Verb is [train, analyse, show, cope]
+The Object is [students, variants]
+For the sentance :They cultivate mental perception and stimulate the development of intelligence.
+The Subject is [They]
+The Verb is [cultivate, stimulate]
+The Object is [perception, development]
+For the sentance :History and literature, on the other hand, provide only limited value by providing examples from the past and the writers imagination.
+The Subject is [History]
+The Verb is [provide, providing]
+The Object is [value, examples]
+For the sentance :The lessons of history are not likely to help solve difficult logical problems that the modern person may encounter almost every day.
+The Subject is [lessons, person]
+The Verb is [are, help, solve, encounter]
+The Object is [problems]
